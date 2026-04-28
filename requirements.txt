@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+mediapipe==0.10.14
+numpy
+pyttsx3
+scikit-learn
+joblib
