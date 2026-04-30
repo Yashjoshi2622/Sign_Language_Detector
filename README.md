@@ -1,5 +1,8 @@
 # Advanced Sign Language Studio
 
+![GitHub Workflow Status](https://github.com/Yashjoshi2622/Sign_Language_Detector/actions/workflows/python-app.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+
 A polished Streamlit app for sign language gesture recognition with webcam capture, live prediction, dataset creation, model training, and sentence builder support.
 
 ## 🚀 Overview
