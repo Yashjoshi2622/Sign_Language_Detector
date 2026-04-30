@@ -2,8 +2,22 @@
 
 ![GitHub Workflow Status](https://github.com/Yashjoshi2622/Sign_Language_Detector/actions/workflows/python-app.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)
+![GitHub stars](https://img.shields.io/github/stars/Yashjoshi2622/Sign_Language_Detector?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Yashjoshi2622/Sign_Language_Detector?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Yashjoshi2622/Sign_Language_Detector)
 
 A polished Streamlit app for sign language gesture recognition with webcam capture, live prediction, dataset creation, model training, and sentence builder support.
+
+<p align="center">
+  <img width="1024" alt="Sign Language Studio App Screenshot" src="https://via.placeholder.com/1024x600?text=App+Screenshot+Coming+Soon">
+</p>
+
+<p align="center">
+  <a href="#-installation">Installation</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#-contributing">Contributing</a> •
+  <a href="#-support">Support</a>
+</p>
 
 ## 🚀 Overview
 
@@ -139,3 +153,40 @@ Contributions, bug reports, and improvements are welcome. Feel free to open issu
 ## 📜 License
 
 This project is released under the MIT License.
+
+---
+
+## Changelog and Releases
+
+See [CHANGELOG.md](CHANGELOG.md) for release notes and updates.
+
+## Support and Questions
+
+1. Check our [docs](README.md) for usage instructions.
+2. Join discussions in [GitHub Issues](https://github.com/Yashjoshi2622/Sign_Language_Detector/issues) for help.
+3. For anything else, open an issue or contact the maintainer.
+
+## Community Guidelines
+
+We follow the [GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines):
+
+- Be welcoming and open-minded
+- Respect each other
+- Communicate with empathy
+- Be clear and stay on topic
+
+## Open Source Dependencies
+
+This project uses the following open-source libraries:
+
+- [Streamlit](https://github.com/streamlit/streamlit)
+- [MediaPipe](https://github.com/google/mediapipe)
+- [OpenCV](https://github.com/opencv/opencv)
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [NumPy](https://github.com/numpy/numpy)
+
+<p align="center">
+  <a href="https://github.com/Yashjoshi2622/Sign_Language_Detector">Repository</a> •
+  <a href="https://github.com/Yashjoshi2622/Sign_Language_Detector/issues">Issues</a> •
+  <a href="https://github.com/Yashjoshi2622/Sign_Language_Detector/discussions">Discussions</a>
+</p>
